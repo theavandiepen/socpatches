@@ -1,5 +1,4 @@
-# socpatches
-Shades of Cyan Server Patches
+# Shades of Cyan Server Patches
 
 Currently just fixes the lang file for Biodiversity: Trees so that the sal sapling actually works properly. May do more later if I get frustrated by something enough. 
 
