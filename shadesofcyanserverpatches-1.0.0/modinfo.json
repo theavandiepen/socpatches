@@ -1,0 +1,12 @@
+{
+  "type": "content",
+  "modid": "socpatches",
+  "name": "Shades of Cyan Server Patches",
+  "description" : "Currently just patches Biodiversity: Trees so that the sal sapling actually works properly",
+  "authors": ["Setej"],
+  "version": "1.0.0",
+  "dependencies": { 
+	"game": "1.22",
+	"survival": ""
+  },
+}
